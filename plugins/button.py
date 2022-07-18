@@ -42,7 +42,7 @@ def start_button(client):
         buttons = [
             [
                 InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ ᴜᴛᴀᴍᴀ", url=client.invitelink),
-                InlineKeyboardButton(text="ᴛɪᴋᴛᴏᴋ ᴠɪʀᴀʟ", url=f"https://t.me/TiktokViralHunter"),
+                InlineKeyboardButton(text="ᴡᴇᴛ ᴄᴏʀɴᴇʀ", url=f"https://t.me/WetCorner"),
             ],
             [
                 InlineKeyboardButton(text="ʟɪᴠᴇ sʜᴏᴡ ʙᴀʀ-ʙᴀʀ", url=f"https://t.me/liveshowid"),
