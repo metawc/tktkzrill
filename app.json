@@ -8,7 +8,6 @@
   ],
   "repository": "https://github.com/mrismanaziz/File-Sharing-Man",
   "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
-  "stack": "container",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
