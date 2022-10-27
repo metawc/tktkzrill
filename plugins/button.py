@@ -47,7 +47,7 @@ def start_button(client):
             [
                 InlineKeyboardButton(text="ʟɪᴠᴇ sʜᴏᴡ ʙᴀʀ-ʙᴀʀ", url=f"https://t.me/liveshowid"),
             ],
-            [InlineKeyboardButton(text="ᴠᴄs ʀᴇᴀʟ [ᴏᴘᴇɴ 𝟸𝟺 ᴊᴀᴍ]", url=f"https://t.me/vcsrealbot")],
+            [InlineKeyboardButton(text="ᴠᴄs ʀᴇᴀʟ [ᴏᴘᴇɴ 𝟸𝟺 ᴊᴀᴍ]", url=f"https://t.me/SexyBunnyTalent")],
         ]
         return buttons
 
