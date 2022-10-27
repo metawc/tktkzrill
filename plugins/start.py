@@ -145,7 +145,7 @@ async def not_joined(client: Bot, message: Message):
         ],
         [
             InlineKeyboardButton(
-                "ᴊᴏɪɴ ɢʀᴏᴜᴘ sᴇxʏ ʙᴜɴɴʏ",
+                "ᴊᴏɪɴ ɢʀᴏᴜᴘ ᴡᴇᴛ ᴀʀᴇᴀ",
                 url = client.invitelink2),
         ]
     ]
